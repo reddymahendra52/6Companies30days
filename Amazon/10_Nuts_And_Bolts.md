@@ -1,4 +1,4 @@
-# 9. Nuts And Bolts Problem
+# 10. Nuts And Bolts Problem
 ## GFG(Geeks For Geeks)
 ### Prompt:
 Given a set of **N** nuts of different sizes and **N** bolts of different sizes. There is a one-one mapping between nuts and bolts. Match nuts and bolts efficiently.
